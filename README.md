@@ -31,7 +31,8 @@ GitHub Repo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal-79&layout=compact&theme=github_dark&hide_border=false)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vimal-79&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vimal-79&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 
 
 
