@@ -1,6 +1,6 @@
 ##👋 Hi there, I'm Vimal!
 
-#💻 Self-taught developer passionate about web development and building real-world applications.
+#💻 Self-taught developer passionate about web development and building real-world applications. <br>
 🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
 
 🛠️ Tech Stack
@@ -24,6 +24,15 @@ GitHub Repo
   <li>System design basics</li>
   <li>Web deployment using Vercel & Netlify</li>
 </ul>
+
+## 📊 GitHub Stats
+
+![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&show_icons=true&theme=github_dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal-79&layout=compact&theme=github_dark&hide_border=false)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vimal-79&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+
 
 
 
