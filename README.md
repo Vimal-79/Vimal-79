@@ -29,9 +29,7 @@ GitHub Repo
 
 ![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&show_icons=true&theme=github_dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal-79&layout=compact&theme=github_dark&hide_border=false)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vimal-79&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vimal-79&theme=github-dark&mode=weakly)](https://git.io/streak-stats)
 
 
 
