@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Vimal!
-
-- 💻 Self-taught developer passionate about web development and building real-world applications. 
+<br>
+- 💻 Self-taught developer passionate about web development and building real-world applications. <br>
 - 🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
 
 ### 🛠️ Tech Stack
