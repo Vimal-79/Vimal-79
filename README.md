@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vimal!
+## 👋 Hi there, I'm Vimal!
 
 - 💻 Self-taught developer passionate about web development and building real-world applications. 
 - 🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
