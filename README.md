@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Vimal!
 
-💻 Self-taught developer passionate about web development and building real-world applications. 
-🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
+- 💻 Self-taught developer passionate about web development and building real-world applications. 
+- 🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
 
 ### 🛠️ Tech Stack
 - Languages: JavaScript, also worked with java and c
@@ -16,7 +16,7 @@
 
 ### 🖥️ Windows UI Web App
 - A desktop-like browser experience with draggable windows and taskbar features.
-= GitHub Repo
+- GitHub Repo
 
 ### 🧠 Currently Learning
   * Advanced JavaScript and TypeScript
@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=github_dark&show_icons=true&hide_border=false)
+![Vimal's Github Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vimal-79&theme=javascript&mode=weekly)](https://git.io/streak-stats)
+![Vimal-79's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vimal-79&theme=algolia&hide_border=false)
 
 
 
