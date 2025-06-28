@@ -6,7 +6,7 @@
 ### 🛠️ Tech Stack
 - Languages: JavaScript, also worked with java and c
 - Web: HTML, CSS, Bootstrap, React, Next.js, Node.js
-- Back End & DB: monogodb
+- Back End & DB: mongodb
 - Tools: Git, GitHub, VS Code
 
 ### 📌 Projects
