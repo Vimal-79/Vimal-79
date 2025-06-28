@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 
-![Vimal's Github Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![Vimal's Github Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vimal-79&theme=javascript&mode=weekly)](https://git.io/streak-stats)
 
