@@ -1,4 +1,33 @@
-## Hi there 👋
+##👋 Hi there, I'm Vimal!
+
+#💻 Self-taught developer passionate about web development and building real-world applications.
+🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
+
+🛠️ Tech Stack
+Languages: JavaScript, also worked with java and c
+Web: HTML, CSS, Bootstrap, React, Next.js, Node.js
+Back End & DB: monogodb
+Tools: Git, GitHub, VS Code
+
+📌 Projects
+🗂️ File Upload Web App
+A modern file uploader with progress indicator and UI feedback.
+GitHub Repo | Live Demo
+
+🖥️ Windows UI Web App
+A desktop-like browser experience with draggable windows and taskbar features.
+GitHub Repo
+
+🧠 Currently Learning
+<ul>
+  <li>Advanced JavaScript and TypeScript</li>
+  <li>System design basics</li>
+  <li>Web deployment using Vercel & Netlify</li>
+</ul>
+
+
+
+
 
 <!--
 **Vimal-79/Vimal-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
