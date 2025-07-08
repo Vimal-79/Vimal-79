@@ -6,7 +6,7 @@
 ### 🛠️ Tech Stack
 - Languages: JavaScript
 - Web: HTML, CSS, Bootstrap, React, Next.js, Node.js
-- Back End & DB: express.js, mongodb
+- Back End & DB: Express.js, Mongodb
 - Tools: Git, GitHub, VS Code
 
 ### 📌 Projects
