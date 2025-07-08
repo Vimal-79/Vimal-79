@@ -4,9 +4,9 @@
 - 🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
 
 ### 🛠️ Tech Stack
-- Languages: JavaScript, also worked with java and c
+- Languages: JavaScript
 - Web: HTML, CSS, Bootstrap, React, Next.js, Node.js
-- Back End & DB: mongodb
+- Back End & DB: express.js, mongodb
 - Tools: Git, GitHub, VS Code
 
 ### 📌 Projects
