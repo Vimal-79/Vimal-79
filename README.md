@@ -14,7 +14,7 @@
 
 ### **Frontend**
 <p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin:5px; padding:8px; border:2px solid #333; border-radius:8px;"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin:5px; padding:8px; border:2px solid #333; user-select:none; border-radius:8px;"  />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin:5px; padding:8px; border:2px solid #333; border-radius:8px;" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="margin:5px; padding:8px; border:2px solid #333; border-radius:8px;" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin:5px; padding:8px; border:2px solid #333; border-radius:8px;" />
