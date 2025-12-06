@@ -1,18 +1,24 @@
 ## 👋 Hi there, I'm Vimal!
 <br>
 - 💻 Self-taught developer passionate about web development and building real-world applications. <br> <br>
-- 🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills.
+- 🚀 Actively learning full-stack development and participating in coding challenges to sharpen my skills. <br><br>
+- ⏳ I’m currently less active due to a busy schedule, but I continue learning and working on projects whenever I can.
 
 ### 🛠️ Tech Stack
 - Languages: JavaScript
-- Web: HTML, CSS, Bootstrap, React, Next.js, Node.js
-- Back End & DB: Express.js, Mongodb
+- Web: HTML, CSS, Bootstrap, React, Next.js
+- Back End & DB: Express.js, Node.js
+- Database: MongoDB & Mysql
 - Tools: Git, GitHub, VS Code
 
 ### 📌 Projects
 - 🗂️ File Upload Web App 
 - A modern file uploader with progress indicator and UI feedback.
 - GitHub Repo | Live Demo
+
+### 🔧 Project in Development
+- Web chat app  <br>
+Current progress can be seen in my repositories.
 
 ### 🖥️ Windows UI Web App
 - A desktop-like browser experience with draggable windows and taskbar features.
@@ -25,7 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![Vimal's Github Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+<!-- ![Vimal's Github Stats](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=blue-green&show_icons=true&hide_border=false&count_private=true) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vimal-79&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
 
