@@ -68,4 +68,4 @@ Building web applications using HTML, CSS, JavaScript, React, Next.js, Node.js a
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vimal-79&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vimal-79&icon=0&color=0)](https://visitcount.itsvg.in)
