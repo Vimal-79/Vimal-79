@@ -60,7 +60,9 @@ Building web applications using HTML, CSS, JavaScript, React, Next.js, Node.js a
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vimal-79&theme=aura&hide_border=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=vimal-79&theme=aura&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal-79&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!-- ![](https://streak-stats.demolab.com?user=Vimal-79&theme=blue-green&mode=weekly) -->
 
