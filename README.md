@@ -59,17 +59,21 @@ Building web applications using HTML, CSS, JavaScript, React, Next.js, Node.js a
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-1
+
 ![](https://github-readme-stats.vercel.app/api?username=Vimal-79&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-2
+<!-- 
 ![](https://nirzak-streak-stats.vercel.app/?user=vimal-79&theme=aura&hide_border=true)<br/> 
 
-3
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal-79&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<!-- ![](https://streak-stats.demolab.com?user=Vimal-79&theme=blue-green&mode=weekly) -->
+<!-- ![](https://streak-stats.demolab.com?user=Vimal-79&theme=blue-green&mode=weekly) 
+-->
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<!-- 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+-->
 
+<!--
 [![](https://visitcount.itsvg.in/api?id=Vimal-79&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
