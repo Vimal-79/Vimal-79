@@ -39,7 +39,7 @@ Database - MongoDB <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimal-kumar-3b618935b) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29964034) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vk.the.great.78009@gmail.com) 
-[!["X account"](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vimal_764)
+[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vimal_764)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
