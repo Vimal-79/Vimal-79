@@ -1,11 +1,11 @@
 # 💫 About Me:
 
 ### I’m currently working on
-Building a mini bank application using the following :-
-Frontend - HTML,CSS, JavaScript, TailwindCSS, React, Next.js 
-UI Design - Figma, Canva, AI tools
-Backend - Node.js, Express.js 
-Database - MongoDB
+Building a mini bank application using the following :- <br>
+Frontend - HTML,CSS, JavaScript, TailwindCSS, React, Next.js <br>
+UI Design - Figma, Canva, AI tools <br>
+Backend - Node.js, Express.js <br>
+Database - MongoDB <br>
 
 <!-- ## 🧠 Currently Learning
 - Advanced JavaScript & TypeScript  
@@ -39,7 +39,7 @@ Database - MongoDB
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimal-kumar-3b618935b) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29964034) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vk.the.great.78009@gmail.com) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vimal_764)
+[![X or Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vimal_764)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
