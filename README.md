@@ -5,7 +5,7 @@ Building a mini bank application using the following :- <br>
 Frontend - HTML,CSS, JavaScript, TailwindCSS, React, Next.js <br>
 UI Design - Figma, Canva, AI tools <br>
 Backend - Node.js, Express.js <br>
-Database - MongoDB <br>
+Database - MongoDB & PostgreSQL <br>
 
 <!-- ## 🧠 Currently Learning
 - Advanced JavaScript & TypeScript  
